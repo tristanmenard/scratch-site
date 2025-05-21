@@ -142,7 +142,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/scratch-site/assets/css/style.css?v=20250521202133">
+        <link rel="stylesheet" href="/scratch-site/assets/css/style.css?v=20250521204254">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -318,10 +318,14 @@ data-event-label="high"
 
 
 
-  <div class="container g-0 ">
+  <div class="container g-0 goal-showing-progress">
     <div class="row align-items-end">
       <div class="col">
         <h2 class="goal-page-heading">Cibles et indicateurs</h2>
+      </div>
+      
+      <div class="col-lg-2 d-none d-lg-block progress-column-header">
+        <span aria-hidden="true">Où en sommes-nous par rapport à l'objectif 2030 ?</span>
       </div>
       
     </div>
@@ -337,6 +341,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">D’ici à 2030, assurer l’accès universel et équitable à l’eau potable, à un coût abordable</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -373,6 +379,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Sur la piste
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/green-gauge.png" alt="Sur la piste" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -417,6 +445,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Progrès limités
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/orange-gauge.png" alt="Progrès limités" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -453,6 +503,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Progrès limités
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/orange-gauge.png" alt="Progrès limités" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -497,6 +569,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Progrès limités
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/orange-gauge.png" alt="Progrès limités" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -533,6 +627,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Détérioration
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/red-gauge.png" alt="Détérioration" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -577,6 +693,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Détérioration
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/red-gauge.png" alt="Détérioration" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -592,6 +730,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">D’ici à 2030, assurer l’accès de tous, dans des conditions équitables, à des services d’assainissement et d’hygiène adéquats et mettre fin à la défécation en plein air, en accordant une attention particulière aux besoins des femmes et des filles et des personnes en situation vulnérable</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -628,6 +768,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Sur la piste
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/green-gauge.png" alt="Sur la piste" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -672,6 +834,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Sur la piste
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/green-gauge.png" alt="Sur la piste" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -708,6 +892,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Des progrès ont été réalisés, mais une accélération est nécessaire
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/yellow-gauge.png" alt="Des progrès ont été réalisés, mais une accélération est nécessaire" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -752,6 +958,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Progrès limités
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/orange-gauge.png" alt="Progrès limités" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -788,6 +1016,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Détérioration
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/red-gauge.png" alt="Détérioration" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -832,6 +1082,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Détérioration
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/red-gauge.png" alt="Détérioration" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -847,6 +1119,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">D’ici à 2030, améliorer la qualité de l’eau en réduisant la pollution, en éliminant l’immersion de déchets et en réduisant au minimum les émissions de produits chimiques et de matières dangereuses, en diminuant de moitié la proportion d’eaux usées non traitées et en augmentant nettement à l’échelle mondiale le recyclage et la réutilisation sans danger de l’eau</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -883,6 +1157,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Progrès limités
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/orange-gauge.png" alt="Progrès limités" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -927,6 +1223,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Des progrès ont été réalisés, mais une accélération est nécessaire
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/yellow-gauge.png" alt="Des progrès ont été réalisés, mais une accélération est nécessaire" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -963,6 +1281,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Objectif atteint
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/target-achieved-gauge.png" alt="Objectif atteint" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -1007,6 +1347,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Sur la piste
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/green-gauge.png" alt="Sur la piste" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -1043,6 +1405,28 @@ data-event-label="high"
 
 
         </li></ul>
+
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Sur la piste
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/green-gauge.png" alt="Sur la piste" />
+            </div>
+        
+        </div>
+    
 
 
             </div>
@@ -1087,6 +1471,28 @@ data-event-label="high"
 
             </div>
             
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
+    
+    
+        <div class="progress-status">
+        
+            <div class="progress-status-label">
+                Objectif atteint
+            </div>
+        
+        
+            <div class="progress-status-image">
+                <img src="/scratch-site/assets/img/progress/target-achieved-gauge.png" alt="Objectif atteint" />
+            </div>
+        
+        </div>
+    
+
+
+            </div>
+            
             
           </div>
         
@@ -1102,6 +1508,8 @@ data-event-label="high"
           <div class="col goal-page-target-name">
             <span class="target-name">D’ici à 2030, faire en sorte que les ressources en eau soient utilisées beaucoup plus efficacement dans tous les secteurs et garantir la viabilité des prélèvements et de l’approvisionnement en eau douce afin de remédier à la pénurie d’eau et de réduire nettement le nombre de personnes qui manquent d’eau</span>
           </div>
+          
+          <div class="col-lg-2 d-none d-lg-block"></div>
           
       </div>
         
@@ -1120,7 +1528,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-4-1/">Variation de l’efficacité de l’utilisation des ressources en eau</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-4-1/">Change in water-use efficiency over time</a></span>
               
 
 
@@ -1139,6 +1547,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1160,7 +1574,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-4-2/">Niveau de stress hydrique : prélèvements d’eau douce en proportion des ressources en eau douce disponibles</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-4-2/">Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</a></span>
               
 
 
@@ -1179,6 +1593,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1198,6 +1618,8 @@ data-event-label="high"
             <span class="target-name">D’ici à 2030, assurer la gestion intégrée des ressources en eau à tous les niveaux, y compris au moyen de la coopération transfrontière selon qu’il convient</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -1215,7 +1637,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-5-1/">Degré de la gestion intégrée des ressources en eau</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-5-1/">Degree of integrated water resources management</a></span>
               
 
 
@@ -1234,6 +1656,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1255,7 +1683,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-5-2/">Proportion de bassins hydriques transfrontaliers où est en place un dispositif de coopération opérationnel</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-5-2/">Proportion of transboundary basin area with an operational arrangement for water cooperation</a></span>
               
 
 
@@ -1274,6 +1702,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1293,6 +1727,8 @@ data-event-label="high"
             <span class="target-name">D’ici à 2020, protéger et restaurer les écosystèmes liés à l’eau, notamment les montagnes, les forêts, les zones humides, les rivières, les aquifères et les lacs</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -1310,7 +1746,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-6-1/">Variation de l’étendue des écosystèmes tributaires de l’eau</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-6-1/">Change in the extent of water-related ecosystems over time</a></span>
               
 
 
@@ -1329,6 +1765,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1348,6 +1790,8 @@ data-event-label="high"
             <span class="target-name">D’ici à 2030, développer la coopération internationale et l’appui au renforcement des capacités des pays en développement en ce qui concerne les activités et programmes relatifs à l’eau et à l’assainissement, y compris la collecte, la désalinisation et l’utilisation rationnelle de l’eau, le traitement des eaux usées, le recyclage et les techniques de réutilisation</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -1365,7 +1809,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-a-1/">Montant de l’aide publique au développement consacrée à l’eau et à l’assainissement dans un plan de dépenses coordonné par les pouvoirs publics</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-a-1/">Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan</a></span>
               
 
 
@@ -1384,6 +1828,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1403,6 +1853,8 @@ data-event-label="high"
             <span class="target-name">Appuyer et renforcer la participation de la population locale à l’amélioration de la gestion de l’eau et de l’assainissement</span>
           </div>
           
+          <div class="col-lg-2 d-none d-lg-block"></div>
+          
       </div>
         
 
@@ -1420,7 +1872,7 @@ data-event-label="high"
             </div>
             <div class="col goal-page-indicator-name">
               
-              <span class="indicator-name"><a href="/scratch-site/fr/6-b-1/">Proportion d’administrations locales ayant mis en place des politiques et procédures opérationnelles encourageant la participation de la population locale à la gestion de l’eau et de l’assainissement</a></span>
+              <span class="indicator-name"><a href="/scratch-site/fr/6-b-1/">Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management</a></span>
               
 
 
@@ -1439,6 +1891,12 @@ data-event-label="high"
 
         </li></ul>
 
+
+            </div>
+            
+            <div class="col-lg-2 goal-page-indicator-progress">
+              <span class="visually-hidden">État d'avancement</span>
+              
 
             </div>
             
@@ -1519,12 +1977,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Chercher';</script>
 
-<script src='/scratch-site/assets/js/sdg.js?v=20250521202133'></script>
+<script src='/scratch-site/assets/js/sdg.js?v=20250521204254'></script>
 
 
     
     
-    <script src="/scratch-site/assets/js/custom.js?v=20250521202133"></script><script>
+    <script src="/scratch-site/assets/js/custom.js?v=20250521204254"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
