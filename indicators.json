@@ -7,7 +7,7 @@
         
         {
           "id": "1-1-1",
-          "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
+          "title": "Series",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-1-1/",
@@ -15,7 +15,7 @@
         },
         {
           "id": "1-1-2",
-          "title": "global_indicators.1-1-2-title",
+          "title": "Unit",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-1-2/",
@@ -23,7 +23,7 @@
         },
         {
           "id": "1-1-3",
-          "title": "global_indicators.1-1-3-title",
+          "title": "Single disaggregation selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-1-3/",
@@ -31,7 +31,7 @@
         },
         {
           "id": "1-2-1",
-          "title": "Proportion of population living below the national poverty line, by sex and age",
+          "title": "Multiple series selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-2-1/",
@@ -39,7 +39,7 @@
         },
         {
           "id": "1-2-2",
-          "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+          "title": "Multiple unit selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-2-2/",
@@ -47,7 +47,7 @@
         },
         {
           "id": "1-2-3",
-          "title": "global_indicators.1-2-3-title",
+          "title": "Multiple disaggregation selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-2-3/",
@@ -55,7 +55,7 @@
         },
         {
           "id": "1-3-1",
-          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+          "title": "Series and unit selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-3-1/",
@@ -63,7 +63,7 @@
         },
         {
           "id": "1-3-2",
-          "title": "global_indicators.1-3-2-title",
+          "title": "Series and disaggregation selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-3-2/",
@@ -71,7 +71,7 @@
         },
         {
           "id": "1-3-3",
-          "title": "global_indicators.1-3-3-title",
+          "title": "Unit and disaggregation selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-3-3/",
@@ -79,7 +79,7 @@
         },
         {
           "id": "1-4-1",
-          "title": "Proportion of population living in households with access to basic services",
+          "title": "Selection not sufficiently reduced by user",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-4-1/",
@@ -87,7 +87,7 @@
         },
         {
           "id": "1-4-2",
-          "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
+          "title": "Error in series/unit/disaggregation selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-4-2/",
@@ -95,7 +95,7 @@
         },
         {
           "id": "1-4-3",
-          "title": "global_indicators.1-4-3-title",
+          "title": "Empty data file",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-4-3/",
@@ -103,7 +103,7 @@
         },
         {
           "id": "1-4-4",
-          "title": "global_indicators.1-4-4-title",
+          "title": "No data file",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/1-4-4/",
@@ -175,7 +175,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Prevalence of undernourishment",
+          "title": "Progress column with valid data",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-1-1/",
@@ -183,7 +183,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
+          "title": "Progress column with invalid data",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-1-2/",
@@ -191,7 +191,7 @@
         },
         {
           "id": "2-1-3",
-          "title": "global_indicators.2-1-3-title",
+          "title": "Empry progress column",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-1-3/",
@@ -199,7 +199,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
+          "title": "Progress column with series selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-2-1/",
@@ -207,7 +207,7 @@
         },
         {
           "id": "2-2-2",
-          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
+          "title": "Progress column with unit selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-2-2/",
@@ -215,7 +215,7 @@
         },
         {
           "id": "2-2-3",
-          "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",
+          "title": "Progress column with disaggregation selection",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-2-3/",
@@ -223,7 +223,7 @@
         },
         {
           "id": "2-2-4",
-          "title": "global_indicators.2-2-4-title",
+          "title": "Progress column with selection insufficiently reduced by user",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/2-2-4/",
@@ -311,7 +311,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Maternal mortality ratio",
+          "title": "Qualitative indicator with maximum limit",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/3-1-1/",
@@ -319,7 +319,7 @@
         },
         {
           "id": "3-1-2",
-          "title": "Proportion of births attended by skilled health personnel",
+          "title": "Qualitative indicator with minimum limit",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/3-1-2/",
@@ -327,7 +327,7 @@
         },
         {
           "id": "3-1-3",
-          "title": "global_indicators.3-1-3-title",
+          "title": "Qualitative indicator with limit, wrong direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/3-1-3/",
@@ -335,7 +335,7 @@
         },
         {
           "id": "3-1-4",
-          "title": "global_indicators.3-1-4-title",
+          "title": "Qualitative indicator with limit, base value = limit",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/3-1-4/",
@@ -343,7 +343,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Under‐5 mortality rate",
+          "title": "Quantitative indicator with limit",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/3-2-1/",
@@ -559,7 +559,7 @@
         
         {
           "id": "4-1-1",
-          "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
+          "title": "Qualitative, all positive values, positive direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-1-1/",
@@ -567,7 +567,7 @@
         },
         {
           "id": "4-1-2",
-          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
+          "title": "Qualitative, all positive values, negative direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-1-2/",
@@ -575,7 +575,7 @@
         },
         {
           "id": "4-2-1",
-          "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",
+          "title": "Quantitative, all positive values, positive direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-2-1/",
@@ -583,7 +583,7 @@
         },
         {
           "id": "4-2-2",
-          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
+          "title": "Quantitative, all positive values, negative direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-2-2/",
@@ -591,7 +591,7 @@
         },
         {
           "id": "4-3-1",
-          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+          "title": "Quantitative, all positive values, positive direction, target achieved at t = 0",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-3-1/",
@@ -599,7 +599,7 @@
         },
         {
           "id": "4-3-2",
-          "title": "global_indicators.4-3-2-title",
+          "title": "Quantitative, all positive values, negative direction, target achieved at t = 0",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-3-2/",
@@ -607,7 +607,7 @@
         },
         {
           "id": "4-4-1",
-          "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+          "title": "Qualitative, all negative values, positive direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-4-1/",
@@ -615,7 +615,7 @@
         },
         {
           "id": "4-4-2",
-          "title": "global_indicators.4-4-2-title",
+          "title": "Qualitative, all negative values, negative direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-4-2/",
@@ -623,7 +623,7 @@
         },
         {
           "id": "4-5-1",
-          "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+          "title": "Quantitative, all negative values, positive direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-5-1/",
@@ -631,7 +631,7 @@
         },
         {
           "id": "4-5-2",
-          "title": "global_indicators.4-5-2-title",
+          "title": "Quantitative, all negative values, negative direction",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-5-2/",
@@ -639,7 +639,7 @@
         },
         {
           "id": "4-6-1",
-          "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
+          "title": "Quantitative, all negative values, positive direction target achieved at t = 0",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-6-1/",
@@ -647,7 +647,7 @@
         },
         {
           "id": "4-6-2",
-          "title": "global_indicators.4-6-2-title",
+          "title": "Quantitative, all negative values, negative direction, target achieved at t = 0",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-6-2/",
@@ -655,7 +655,7 @@
         },
         {
           "id": "4-7-1",
-          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
+          "title": "Mix of positive and negative values",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-7-1/",
@@ -663,7 +663,7 @@
         },
         {
           "id": "4-8-1",
-          "title": "global_indicators.4-8-1-title",
+          "title": "Manual override",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-8-1/",
@@ -671,7 +671,7 @@
         },
         {
           "id": "4-9-1",
-          "title": "global_indicators.4-9-1-title",
+          "title": "Not enough data",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/4-9-1/",
@@ -711,7 +711,7 @@
         
         {
           "id": "5-1-1",
-          "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",
+          "title": "Zero target",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/5-1-1/",
@@ -719,7 +719,7 @@
         },
         {
           "id": "5-2-1",
-          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
+          "title": "Zero base value",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/5-2-1/",
@@ -735,7 +735,7 @@
         },
         {
           "id": "5-3-1",
-          "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+          "title": "Zero current value",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/5-3-1/",
@@ -751,7 +751,7 @@
         },
         {
           "id": "5-4-1",
-          "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+          "title": "Zero limit",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/5-4-1/",
@@ -831,7 +831,7 @@
         
         {
           "id": "6-1-1",
-          "title": "test.6-1-1-title",
+          "title": "Qualitative indicator with CAGR = 2%, score should be 5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-1-1/",
@@ -839,7 +839,7 @@
         },
         {
           "id": "6-1-2",
-          "title": "test.6-1-2-title",
+          "title": "Qualitative indicator with CAGR = 1.5%, score should be 2.5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-1-2/",
@@ -847,7 +847,7 @@
         },
         {
           "id": "6-1-3",
-          "title": "test.6-1-3-title",
+          "title": "Qualitative indicator with CAGR = 0.5%, score should be 0",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-1-3/",
@@ -855,7 +855,7 @@
         },
         {
           "id": "6-1-4",
-          "title": "test.6-1-4-title",
+          "title": "Qualitative indicator with CAGR = 0%, score should be -2.5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-1-4/",
@@ -863,7 +863,7 @@
         },
         {
           "id": "6-1-5",
-          "title": "test.6-1-5-title",
+          "title": "Qualitative indicator with CAGR = -1%, score should be -3.75",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-1-5/",
@@ -871,7 +871,7 @@
         },
         {
           "id": "6-1-6",
-          "title": "test.6-1-6-title",
+          "title": "Qualitative indicator with CAGR = -2%, score should be -5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-1-6/",
@@ -879,7 +879,7 @@
         },
         {
           "id": "6-2-1",
-          "title": "test.6-2-1-title",
+          "title": "Qualitative indicator near limit with CAGR/coeff = 2%, score should be 5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-2-1/",
@@ -887,7 +887,7 @@
         },
         {
           "id": "6-2-2",
-          "title": "test.6-2-2-title",
+          "title": "Qualitative indicator near limit with CAGR/coeff = 1.5%, score should be 2.5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-2-2/",
@@ -895,7 +895,7 @@
         },
         {
           "id": "6-2-3",
-          "title": "test.6-2-3-title",
+          "title": "Qualitative indicator near limit with CAGR/coeff = 0.5%, score should be 0",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-2-3/",
@@ -903,7 +903,7 @@
         },
         {
           "id": "6-2-4",
-          "title": "test.6-2-4-title",
+          "title": "Qualitative indicator near limit with CAGR/coeff = 0%, score should be -2.5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-2-4/",
@@ -911,7 +911,7 @@
         },
         {
           "id": "6-2-5",
-          "title": "test.6-2-5-title",
+          "title": "Qualitative indicator near limit with CAGR = -1%, score should be -3.75",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-2-5/",
@@ -919,7 +919,7 @@
         },
         {
           "id": "6-2-6",
-          "title": "test.6-2-6-title",
+          "title": "Qualitative indicator near limit with CAGR = -2%, score should be -5",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-2-6/",
@@ -927,7 +927,7 @@
         },
         {
           "id": "6-3-1",
-          "title": "test.6-3-1-title",
+          "title": "Quantitative indicator, multiple disaggregations, limited progress, no target achieved",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-3-1/",
@@ -935,7 +935,7 @@
         },
         {
           "id": "6-3-2",
-          "title": "test.6-3-2-title",
+          "title": "Quantitative indicator, multiple disaggregations, limited progress, some targets achieved",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-3-2/",
@@ -943,7 +943,7 @@
         },
         {
           "id": "6-3-3",
-          "title": "test.6-3-3-title",
+          "title": "Quantitative indicator, multiple disaggregations, limited progress, all targets achieved --> (5, target_achieved)",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-3-3/",
@@ -951,7 +951,7 @@
         },
         {
           "id": "6-3-4",
-          "title": "test.6-3-4-title",
+          "title": "Quantitative indicator, multiple disaggregations, substantial progress (scores=[5,5,5,5]), no targets achieved --> (5, substantial_progress)",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-3-4/",
@@ -959,7 +959,7 @@
         },
         {
           "id": "6-3-5",
-          "title": "test.6-3-5-title",
+          "title": "Quantitative indicator, multiple disaggregations, substantial progress (scores=[5,5,5,5]), some targets achieved --> (5, substantial_progress)",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-3-5/",
@@ -967,7 +967,7 @@
         },
         {
           "id": "6-3-6",
-          "title": "test.6-3-6-title",
+          "title": "Quantitative indicator, multiple disaggregations, substantial progress (scores=[5,5,5,5]), all targets achieved --> (5, target_achieved)",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/6-3-6/",
@@ -1039,7 +1039,7 @@
         
         {
           "id": "7-1-1",
-          "title": "Proportion of population with access to electricity",
+          "title": "Data start values after changing series",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/7-1-1/",
@@ -1055,7 +1055,7 @@
         },
         {
           "id": "7-2-1",
-          "title": "Renewable energy share in the total final energy consumption",
+          "title": "Observation attributes and GeoCode",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/7-2-1/",
@@ -1063,7 +1063,7 @@
         },
         {
           "id": "7-3-1",
-          "title": "Energy intensity measured in terms of primary energy and GDP",
+          "title": "No progress status, manual override",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/7-3-1/",
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "7-3-2",
-          "title": "global_indicators.7-3-2-title",
+          "title": "Non-statistical indicator, manual override",
           "description": "",
           "keywords": "",
           "href": "/scratch-site/7-3-2/",
