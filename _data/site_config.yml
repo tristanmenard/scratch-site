@@ -245,6 +245,12 @@ progress_status:
     label: status.target_achieved
     image: assets/img/progress/target-achieved-gauge.png
     alt: status.target_achieved
+  - value: not_available_manual
+    label: status.not_available_manual
+    alt: status.not_available_manual
+  - value: progress_test_label
+    label: status.status_test
+    alt: status.status_test
 progressive_web_app:
   enabled: false
   name: ''
